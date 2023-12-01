@@ -1,0 +1,27 @@
+<locations>
+    <location>
+        <name>Warszawa</name>
+        <latitude>52.2297</latitude>
+        <longitude>21.0122</longitude>
+    </location>
+    <location>
+        <name>Kraków</name>
+        <latitude>50.0647</latitude>
+        <longitude>19.9450</longitude>
+    </location>
+    <location>
+        <name>Gdańsk</name>
+        <latitude>54.3520</latitude>
+        <longitude>18.6466</longitude>
+    </location>
+    <location>
+        <name>Wrocław</name>
+        <latitude>51.1079</latitude>
+        <longitude>17.0385</longitude>
+    </location>
+    <location>
+        <name>Poznań</name>
+        <latitude>52.4064</latitude>
+        <longitude>16.9252</longitude>
+    </location>
+</locations>
